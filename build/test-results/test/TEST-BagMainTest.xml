@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BagMainTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-18T19:29:16" hostname="DESKTOP-URHB99F" time="0.015">
+  <properties/>
+  <testcase name="TestEnhanceBagsTrue" classname="BagMainTest" time="0.013"/>
+  <testcase name="TestCountCrossbodyStraps" classname="BagMainTest" time="0.001"/>
+  <testcase name="TestEnhanceBagsFalse" classname="BagMainTest" time="0.001"/>
+  <system-out><![CDATA[h enhance
+h enhance
+C enhance
+h enhance
+h enhance
+C enhance
+h enhance
+C enhance
+h enhance
+C enhance
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
